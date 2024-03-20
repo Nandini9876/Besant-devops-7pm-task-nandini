@@ -1,0 +1,2 @@
+1. installed packages
+2. installed gitbash
